@@ -65,22 +65,30 @@ After winding down the L2 project, I committed to a rigorous re-education path u
 
 ## 🛠️ Featured Projects
 
+### 🏦 [CPP Bank System – OOP](https://github.com/MahmoudNabilElSoghier/CPP-Bank-System-OOP)
+Advanced bank management system built with pure Object-Oriented Programming.
+- Full client & user management, granular permissions, currency exchange module.
+- File-based persistence, encrypted passwords, transfer/login logs.
+
 ### 🏧 [CPP ATM Client System](https://github.com/MahmoudNabilElSoghier/CPP-ATM-Client-System)
 A console-based ATM client application written in C++ using structured programming.
-- Secure login, quick/normal withdraw, deposit, balance inquiry
-- Shares `clientData.txt` with the Bank Management System
+- Secure login, quick/normal withdraw, deposit, balance inquiry.
+- Shares `clientData.txt` with the Bank Management System.
 
-### 🏦 [Bank Management System](https://github.com/MahmoudNabilElSoghier/Bank-Management-CPP)
+### 🏦 [Bank Management System (Structured)](https://github.com/MahmoudNabilElSoghier/Bank-Management-CPP)
 A comprehensive bank management console application.
-- Full client CRUD, transactions (deposit, withdraw, transfer)
-- User management with granular permissions (access levels)
-- Backend for the ATM Client System
+- Full client CRUD, transactions (deposit, withdraw, transfer).
+- User management with granular permissions (access levels).
+- Backend for the ATM Client System.
 
-### 🧪 [C++ Mini Projects](https://github.com/MahmoudNabilElSoghier/CPP-Mini-Projects) *(In Progress)*
-- 🧮 **Calculator** – Basic arithmetic operations with clean console UI.
-- ✊📄✂️ **Stone Paper Scissor** – Classic game with score tracking.
-- ❓ **Quiz Game** – Multiple choice questions with final score evaluation.
-- 🧱 **BankSystem_OOP** – Same banking logic implemented with full Object-Oriented Programming.
+### 🎮 [CPP Stone Paper Scissor](https://github.com/MahmoudNabilElSoghier/CPP-Stone-Paper-Scissor)
+Classic game against the computer with real-time statistics and visual feedback.
+
+### ❓ [CPP Quiz Game](https://github.com/MahmoudNabilElSoghier/CPP-Quiz-Game)
+Math quiz game with selectable difficulty and operation types, instant score tracking.
+
+### 🧮 [CPP Interactive Calculator](https://github.com/MahmoudNabilElSoghier/CPP-Calculator)
+Console calculator with OOP design, interactive menu, and undo functionality.
 
 ---
 
@@ -104,11 +112,19 @@ A comprehensive bank management console application.
 
 ---
 
-## 🗺️ Upcoming Learning Path (C# / SQL / .NET)
+## 🗺️ Current & Upcoming Learning Path
 
+### 🟢 Currently Studying
 | # | Course |
 |---|--------|
-| 14 | C# - Level 1 *(Currently Studying)* |
+| 14 | C# - Level 1 |
+
+---
+
+### ⏳ Next Milestones (C# / SQL / .NET)
+
+| #  | Course |
+|----|--------|
 | 15 | Database Level 1 - SQL (Concepts and Practice) |
 | 16 | OOP As It Should Be In C# |
 | 17 | Database - SQL (Projects & Practice) |
@@ -125,7 +141,6 @@ A comprehensive bank management console application.
 | 28 | HTML - Deep Dive |
 | 29 | CSS Foundations Deep Dive |
 | 30 | Start Coding with JavaScript: Beginner's Essentials Guide |
-
 ---
 
 ## 📫 Connect with Me
