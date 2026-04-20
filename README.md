@@ -1,10 +1,33 @@
 # 👋 Hi, I'm Mahmoud Nabil El-Soghier
 
 [![GitHub followers](https://img.shields.io/github/followers/MahmoudNabilElSoghier?label=Follow&style=social)](https://github.com/MahmoudNabilElSoghier)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahmoud-nabil-elsoghier/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahmoud-nabil-elsoghier/)
 
-**Software Developer** building robust applications with **C++** and expanding into **C#**, **SQL**, and **.NET**.  
-Currently following a comprehensive roadmap with **Eng. Mohammed Abu-Hadhoud** on [Programming Advices](https://programmingadvices.com/).
+**Software Engineer** | **Game Server Developer** | **.NET Backend Enthusiast**
+
+Graduated from **AAST (Arab Academy for Science & Technology)** with a degree in **Software Engineering**.  
+I blend strong academic foundations with real-world entrepreneurial experience in game development and server architecture.
+
+---
+
+## 🚀 Featured Experience: Lineage 2 Monsters (2017 - 2025)
+
+I founded, developed, and managed **Lineage 2 Monsters**, a full-scale private server project that reached production release in 2025.
+
+- **Server-Side:** Developed in **Java** with a custom game logic layer.
+- **Client-Side:** Built with **Unreal Engine**.
+- **Web Platform:** Built a custom website using **PHP (Laravel)** and **MySQL**.
+- **Domains Managed:** `l2monsters.com` | `l2monsters.net` | `l2monsters.games`.
+- **Security:** Implemented an **Active Anti-Cheat** system.
+- **Community Management:** Managed a Discord community, handled feature updates, and published detailed game documentation on the website.
+
+*This project was a massive lesson in **System Architecture, Database Design, and Community-Driven Development**.*
+
+---
+
+## 💻 Current Focus: .NET & C# Backend Engineering
+
+After winding down the L2 project, I committed to a rigorous re-education path under the mentorship of **Eng. Mohammed Abu-Hadhoud** on [Programming Advices](https://programmingadvices.com/). I'm currently rebuilding my foundations and expanding into modern backend development.
 
 ---
 
@@ -21,12 +44,7 @@ A comprehensive bank management console application.
 - User management with granular permissions (access levels)
 - Backend for the ATM Client System
 
----
-
-## 🧪 C++ Mini Projects (Functionality & OOP)
-
-I will be adding smaller projects to a dedicated **`Cpp-Mini-Projects`** repository, including:
-
+### 🧪 [C++ Mini Projects](https://github.com/MahmoudNabilElSoghier/CPP-Mini-Projects) *(In Progress)*
 - 🧮 **Calculator** – Basic arithmetic operations with clean console UI.
 - ✊📄✂️ **Stone Paper Scissor** – Classic game with score tracking.
 - ❓ **Quiz Game** – Multiple choice questions with final score evaluation.
@@ -58,7 +76,7 @@ I will be adding smaller projects to a dedicated **`Cpp-Mini-Projects`** reposit
 
 | # | Course |
 |---|--------|
-| 14 | C# - Level 1 |
+| 14 | C# - Level 1 *(Currently Studying)* |
 | 15 | Database Level 1 - SQL (Concepts and Practice) |
 | 16 | OOP As It Should Be In C# |
 | 17 | Database - SQL (Projects & Practice) |
@@ -74,16 +92,16 @@ I will be adding smaller projects to a dedicated **`Cpp-Mini-Projects`** reposit
 | 27 | SOLID Principles |
 | 28 | HTML - Deep Dive |
 | 29 | CSS Foundations Deep Dive |
-| 30 | Start Coding with JavaScript: Beginner’s Essentials Guide |
+| 30 | Start Coding with JavaScript: Beginner's Essentials Guide |
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: [@MahmoudNabilElSoghier](https://github.com/MahmoudNabilElSoghier)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mahmoud-nabil-elsoghier/)
-- Email: MahmoudNabilElSoghier@gmail.com
+- **GitHub:** [@MahmoudNabilElSoghier](https://github.com/MahmoudNabilElSoghier)
+- **LinkedIn:** [Mahmoud Nabil El-Soghier](https://www.linkedin.com/in/mahmoud-nabil-elsoghier/)
+- **Email:** MahmoudNabilElSoghier@gmail.com
 
 ---
 
-> *"The only way to learn a new programming language is by writing programs in it."* – Dennis Ritchie
+> *"Building a project from scratch for 8 years teaches you more about software than any tutorial ever could."*
