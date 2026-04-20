@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahmoud Nabil El-Soghier
 
 [![GitHub followers](https://img.shields.io/github/followers/MahmoudNabilElSoghier?label=Follow&style=social)](https://github.com/MahmoudNabilElSoghier)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahmoud-nabil-elsoghier/))
 
 **Software Developer** building robust applications with **C++** and expanding into **C#**, **SQL**, and **.NET**.  
 Currently following a comprehensive roadmap with **Eng. Mohammed Abu-Hadhoud** on [Programming Advices](https://programmingadvices.com/).
