@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/MahmoudNabilElSoghier?label=Follow&style=social)](https://github.com/MahmoudNabilElSoghier)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahmoud-nabil-elsoghier/)
 
-**Software Engineer** | **Game Server Developer** | **.NET Backend Enthusiast**
+**Software Engineer** | **System Architect** | **.NET Backend Enthusiast**
 
 Bachelor of Commerce from **Alexandria University (2023)** with additional studies in **Software Engineering** at **AAST (Arab Academy for Science & Technology)**.  
 I bring a unique blend of financial acumen and software development expertise, having worked as both an Accountant and a Software Developer in multiple professional environments. This dual perspective fuels my passion for building robust, data-driven systems.
@@ -29,16 +29,31 @@ I bring a unique blend of financial acumen and software development expertise, h
 
 ## 🚀 Featured Experience: Lineage 2 Monsters (2017 - 2025)
 
-Alongside my professional career, I founded, developed, and managed **Lineage 2 Monsters**, a full-scale private server project that reached production release in 2025.
+Alongside my professional career, I founded, developed, and managed **Lineage 2 Monsters**, a full-scale private server project that reached production release in 2025. This project required architecting and maintaining a complex, distributed server infrastructure.
 
-- **Server-Side:** Developed in **Java** with a custom game logic layer.
-- **Client-Side:** Built with **Unreal Engine**.
-- **Web Platform:** Built a custom website using **PHP (Laravel)** and **MySQL**.
-- **Domains Managed:** `l2monsters.com` | `l2monsters.net` | `l2monsters.games`.
-- **Security:** Implemented an **Active Anti-Cheat** system.
-- **Community Management:** Managed a Discord community, handled feature updates, and published detailed game documentation on the website.
+### 🖥️ Distributed Server Architecture
 
-*This project was a massive lesson in **System Architecture, Database Design, and Community-Driven Development**.*
+| Type | Count | Role |
+|------|-------|------|
+| **Linux (Nginx)** | 5 | **DDoS Mitigation & Streaming:** Nginx reverse proxy to absorb attacks and route traffic to backend servers. |
+| **Windows Server** | 1 | **Game Server + Database:** Primary game logic and MySQL database instance. |
+| **Windows Server** | 1 | **Login Server + Apache:** Handles authentication and serves the client updater (`Updater.exe`). |
+| **Windows Server** | 1 | **Web Platform:** Laravel-based website and CMS. |
+
+- **Inter-Server Communication:** Linux front-end servers communicate with the Windows game server via **Nginx streaming** to protect against DDoS attacks.
+- **Database Connectivity:** Critical servers connect to the central database via **Web Sockets** for real-time, efficient data transfer.
+- **Total Managed Servers:** **8 dedicated servers** (5 Linux + 3 Windows) hosted via **RyzeHosting**.
+
+### 🛠️ Technology Stack & Features
+
+- **Server-Side:** Java (custom game logic).
+- **Client-Side:** Unreal Engine.
+- **Web Platform:** PHP (Laravel), MySQL.
+- **Domains:** `l2monsters.com` | `l2monsters.net` | `l2monsters.games`.
+- **Security:** Active Anti-Cheat system integration.
+- **Community:** Managed feature updates and documentation via [Discord](https://discord.gg/eMbsWY9bfz).
+
+*This project was a deep dive into **System Architecture, Network Security (DDoS Mitigation), Distributed Systems, and Community Management**.*
 
 ---
 
@@ -121,4 +136,4 @@ A comprehensive bank management console application.
 
 ---
 
-> *"Building a project from scratch for 8 years while managing a full-time career teaches you more about discipline and software than any tutorial ever could."*
+> *"Architecting a distributed system across 8 servers while managing a full-time career taught me that infrastructure is just as important as code."*
