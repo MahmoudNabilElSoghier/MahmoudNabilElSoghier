@@ -5,14 +5,31 @@
 
 **Software Engineer** | **Game Server Developer** | **.NET Backend Enthusiast**
 
-Graduated from **AAST (Arab Academy for Science & Technology)** with a degree in **Software Engineering**.  
-I blend strong academic foundations with real-world entrepreneurial experience in game development and server architecture.
+Bachelor of Commerce from **Alexandria University (2023)** with additional studies in **Software Engineering** at **AAST (Arab Academy for Science & Technology)**.  
+I bring a unique blend of financial acumen and software development expertise, having worked as both an Accountant and a Software Developer in multiple professional environments. This dual perspective fuels my passion for building robust, data-driven systems.
+
+---
+
+## 💼 Professional Experience
+
+### Accountant & Software Developer | Talaat Moustafa Group *(Oct 2025 - Present)*
+- Contributing to financial operations and software maintenance within a leading real estate organization.
+
+### Software Developer & Accountant | Hamza Company *(Jan 2023 - Oct 2023)*
+- Maintained and enhanced the company's internal application.
+- Prepared financial reports and managed banking transactions.
+- Handled customer accounting and on-site contractor labor/equipment management.
+
+### Software Developer & Accountant | ElGhawy Office *(Jun 2022 - Dec 2022)*
+- Developed a custom application to streamline customer data recording and workflow management.
+- Prepared financial reports and reviewed client tax accounts.
+- Managed interactions with the Egyptian electronic tax system.
 
 ---
 
 ## 🚀 Featured Experience: Lineage 2 Monsters (2017 - 2025)
 
-I founded, developed, and managed **Lineage 2 Monsters**, a full-scale private server project that reached production release in 2025.
+Alongside my professional career, I founded, developed, and managed **Lineage 2 Monsters**, a full-scale private server project that reached production release in 2025.
 
 - **Server-Side:** Developed in **Java** with a custom game logic layer.
 - **Client-Side:** Built with **Unreal Engine**.
@@ -104,4 +121,4 @@ A comprehensive bank management console application.
 
 ---
 
-> *"Building a project from scratch for 8 years teaches you more about software than any tutorial ever could."*
+> *"Building a project from scratch for 8 years while managing a full-time career teaches you more about discipline and software than any tutorial ever could."*
